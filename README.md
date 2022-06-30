@@ -1,5 +1,8 @@
 ﻿# Burp-Suit:
-![](Aspose.Words.e4480d83-b95d-48be-941b-24b2433d8248.001.jpeg)![](Aspose.Words.e4480d83-b95d-48be-941b-24b2433d8248.002.jpeg)![What is Burp Suite?](Aspose.Words.e4480d83-b95d-48be-941b-24b2433d8248.003.jpeg)
+![image](https://user-images.githubusercontent.com/65080702/176628987-99588e8c-b59c-4af4-ad19-eb82f8ab21cf.png)![image](https://user-images.githubusercontent.com/65080702/176629017-52a394e8-d7bf-4303-8c6f-3403dcb288ad.png)![image](https://user-images.githubusercontent.com/65080702/176629046-7f439731-29cc-4763-a14f-6ebbfb7c5cc6.png)
+
+
+
 ## 1.Spider
 It is a web spider/crawler that is used to map the target web application. The objective of the mapping is to get a list of endpoints so that their functionality can be observed and potential vulnerabilities can be found. Spidering is done for a simple reason that the more endpoints you gather during your recon process, the more attack surfaces you possess during your actual testing.
 ## 2.Proxy
